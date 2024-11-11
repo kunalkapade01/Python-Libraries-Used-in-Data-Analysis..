@@ -1,5 +1,6 @@
 # **Popular Python Libraries Used in Data Analysis :**
-
+ 
+- **Numpy Tutorial :**
 - **Pandas Tutorial :**
-- **Seaborn Tutorial :**
 - **Matplotlib Tutorial :**
+- **Seaborn Tutorial :**
