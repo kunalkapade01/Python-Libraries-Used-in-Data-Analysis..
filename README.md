@@ -5,5 +5,8 @@
   - **Numpy Random :**
  
 - **Pandas Tutorial :**
+  - **Pandas Dataframe :**
+  - **Recommendation_System using Pandas :**
+   
 - **Matplotlib Tutorial :**
 - **Seaborn Tutorial :**
