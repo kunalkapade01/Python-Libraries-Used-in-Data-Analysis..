@@ -9,4 +9,6 @@
   - **Recommendation_System using Pandas :**
    
 - **Matplotlib Tutorial :**
+  - **Matplotlib Basic :**
+    
 - **Seaborn Tutorial :**
