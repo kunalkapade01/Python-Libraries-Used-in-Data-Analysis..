@@ -12,3 +12,6 @@
   - **Matplotlib Basic :**
     
 - **Seaborn Tutorial :**
+  - **Seaborn Basic :**
+  - **Seaborn from Scratch :**
+  - **CSV file using Seaborn :**
